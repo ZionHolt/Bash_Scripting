@@ -1,0 +1,4 @@
+apples 20
+oranges 5
+peaches 7
+watermelons 12
