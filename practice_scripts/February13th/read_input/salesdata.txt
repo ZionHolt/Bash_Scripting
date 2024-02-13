@@ -1,0 +1,5 @@
+Apples 20
+Oranges 30
+Bananas 40
+Grapes 50
+Mangos 60
